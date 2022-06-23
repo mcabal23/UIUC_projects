@@ -1,0 +1,19 @@
+## Author
+
+-**Name** Mitchell Caballero
+
+-**Email** mcabal23@illinois.edu
+
+
+## Purpose
+
+The purpose of this app is to predict the type of pitch a pitcher threw based on the inputted velocity and spin rate, using the average and standard deviation of velocity, and the average and standard deviation of spin rate of each pitch in a pitcher's arsenal. This can help users better understand how broadcasts can report a pitch type instantly after it was thrown.
+
+## Data
+
+The data consists of the date, pitcher, velocity, spin rate, and pitch type of every pitch thrown in the MLB last season, from the first pitch on opening day to the final pitch of the world series.
+
+
+## References
+
+-[MLB Pitch Data 2021] ('https://stat385.org/data/mlb_pitches_2021.rds')
